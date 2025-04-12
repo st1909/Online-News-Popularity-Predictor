@@ -1,5 +1,3 @@
-# 📰 Online News Popularity Predictor
+## Live Demo
 
-🚀 **Live Demo:** [Click here to try the app](https://online-news-predictor.streamlit.app)
-
-This project uses machine learning models to predict the popularity of online news articles...
+You can view the live version of the app here: [Live Demo](http://localhost:8502/)
